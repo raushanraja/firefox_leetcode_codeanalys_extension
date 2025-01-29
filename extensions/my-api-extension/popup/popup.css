@@ -1,0 +1,39 @@
+body {
+    width: 800px;
+    height: 510px;
+    padding: 5px;
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    gap: 5px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+textarea,
+code,
+pre {
+    background-color: #44475a;
+}
+
+main>div {
+    height: 500px;
+    padding: 5px;
+    border: 1px solid grey;
+}
+
+
+#resp {
+    overflow: scroll;
+    height: 400px;
+}
