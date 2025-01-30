@@ -8,6 +8,7 @@ This extension provides functionality to analyze code using the Gemini API. It i
 - Sends code to the Gemini API for analysis.
 - Displays the analysis results in a new tab.
 - Provides detailed complexity analysis, step-by-step breakdown, and summarized breakdown.
+- Popup extension for quick code analysis for custom code.
 
 ## Installation
 
